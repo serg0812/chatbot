@@ -8,6 +8,8 @@ In order to launch you have to install several libraries either via pip or via c
 -flask
 -flask_cors
 
+you also should declare your OPENAI_API_KEY in your env variables
+
 to run execute from your command line:
 python3 appweb.py
 
